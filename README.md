@@ -9,8 +9,9 @@
 </p>
 
 📫 reach out to me on mansi.borole@rutgers.edu
+
 <p align="left"> 
-<img src="https://komarev.com/ghpvc/?username=MansiGit&style=for-the-badge">
+<img src="https://komarev.com/ghpvc/?username=MansiGit&style=for-the-badge&color=ff00ff">
 </p>
 <!---
 MansiGit/MansiGit is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
