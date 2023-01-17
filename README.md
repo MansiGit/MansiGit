@@ -8,7 +8,9 @@
 😃I have a solid understanding of data structures and algorithms and I'm always learning more. As a Big Data Engineer with HSBC Bank, I've worked with technologies like Hadoop, Spark, Kafka, Python, and SQL in the past.
 </p>
 
-📫 reach out to me on mansi.borole@rutgers.edu
+📫 reach out to me on mansi.borole@rutgers.edu 
+<br>
+👩🏻‍💻check out my portfolio: https://mansigit.github.io
 
 <p align="left"> 
 <img src="https://komarev.com/ghpvc/?username=MansiGit&style=for-the-badge&color=ff00ff">
