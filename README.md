@@ -5,7 +5,7 @@
 👀 Strong ability to develop, engineer, and carry out projects within schedule constraints. I am a creative professional with experience in envisioning, executing, and evaluating data across all development frontiers to build Big Data Applications.
 </p>
 <p>
-😃I have a solid understanding of data structures and algorithms and I'm always learning more. As a Big Data Engineer with HSBC Bank, I've worked with technologies like Hadoop, Spark, Kafka, Python, and SQL in the past.
+😃I have a solid understanding of data structures and algorithms and I'm always learning more. As a Big Data Engineer with HSBC Bank, I've worked with technologies like Hadoop, Spark, Python, and SQL in the past.
 </p>
 
 📫 reach out to me on mansi.borole@rutgers.edu 
