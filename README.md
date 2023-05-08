@@ -2,7 +2,7 @@
 <p>🌱 I'm currently a graduate student in Computer Science at Rutgers University. A developer with a performance-driven mindset who is incredibly enthusiastic about new technologies and has a deligent work ethic. 
 </p>
 <p>
-👀 Strong ability to develop, engineer, and carry out projects within schedule constraints. I am a creative professional with experience in envisioning, executing, and evaluating data across all development frontiers to build Big Data Applications.
+👀 Strong ability to develop, engineer, and carry out projects within schedule constraints. I am a creative professional with experience in envisioning, executing, and evaluating projects across all development frontiers to build Big Data Applications.
 </p>
 <p>
 😃I have a solid understanding of data structures and algorithms and I'm always learning more. As a Big Data Engineer with HSBC Bank, I've worked with technologies like Hadoop, Spark, Python, and SQL in the past.
